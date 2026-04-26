@@ -10,27 +10,26 @@ A RESTful backend API for a Job Portal built using Node.js, Express.js, and Mong
 https://job-portal-backend-b0dg.onrender.com/api/v1
 
 ⚙️ Tech Stack
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- JWT Authentication
-- bcryptjs
-- Render Deployment
+Node.js
+Express.js
+MongoDB (Mongoose)
+JWT Authentication
+bcryptjs
+Render Deployment
 
 🔥 Features
-- User Authentication (Register / Login with JWT)
-- Password Hashing using bcrypt
-- Create / Read / Update / Delete Jobs
-- Protected Routes using JWT
-- MongoDB Atlas Integration
-- RESTful API Architecture
-- Deployed on Render
+User Authentication (Register / Login with JWT)
+Password Hashing using bcrypt
+Create / Read / Update / Delete Jobs
+Protected Routes using JWT
+MongoDB Atlas Integration
+RESTful API Architecture
+Deployed on Render
 
 📦 Installation
-
 1. Clone Repository
-```
-git clone https://github.com/priyESH88088/job-portal-backend.git
+git clone https://github.com/priyESH88088/jobApp.git
+
 cd job-portal-backend
 ```
 
