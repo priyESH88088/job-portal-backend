@@ -1,6 +1,7 @@
 🚀 Job Portal Backend API (JWT + MongoDB + Deployment)
 
 A RESTful backend API for a Job Portal built using Node.js, Express.js, and MongoDB with JWT authentication.
+A RESTful backend API for a Job Portal built using Node.js, Express.js, and MongoDB with JWT authentication.
 
 🌐 Live Demo
 
